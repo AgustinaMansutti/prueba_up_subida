@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Judson&family=Lato&family=Montserrat&display=swap');
+
+
+.fondo{
+	background-color:#deb2cb
+
+}
+
+.columnas{
+      width: 1000px;
+	height: 450px;
+      padding: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      column-count: 3;
+      column-gap: 40px;
+      column-rule: 1px solid #ffffff;
+      border-color: #ffffff;
+      border-width: 2px;
+      border-style: none;
+      background: -moz-linear-gradient(top, #003d99 , #001433);
+     background: -webkit-gradient(linear, 0 0, 0 100%, from(#a73686),  to(#c68ca5)); 
+	border:bold 20px #ffffff;
+	-moz-border-radius: 20px;
+	border-radius: 20px;	
+	background-color: #F2F3C7;
+;
+	box-shadow: 50px 40px 10px #a73686 ; margin:auto;font-family: 'Montserrat', sans-serif}
+
+
+h2{text-decoration:underline;font-family:'Judson', serif;}
+
+.foto{filter:brightness(1.1); 
+	mix-blend-mode: multiply; 
+	height:200px;
+    float:left; 
+	padding-top:0%; 
+	padding-left:5%;
+	padding-bottom:1.5%}
+
+h1{;font-size:50px;line-height: 90px; text-align:center;color:#a73686; margin-top:5%; margin-right:10%;font-family:'Judson', serif}
+
+.top{background-color:#ffff; height:200px;width:1100px; margin:auto; border:solid 1px}
+
+footer {background-color:#ffff; height:100px;width:600px; margin:auto;  margin-top:4%;border:solid 1px; text-align:center; padding-top:0.5%;font-family: 'Montserrat', sans-serif}
+
+footer img{width:45px; padding-top:3%;paddin-bottom:0%}
